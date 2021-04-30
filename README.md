@@ -24,4 +24,4 @@ I'm Guilherme, mechanical engineer and business intelligence developer, passiona
 ------------
 
 ![Guilherme Matheus's github stats](https://github-readme-stats.vercel.app/api?username=guimatheus92&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimatheus92&layout=compact)](https://github.com/guimatheus92/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guimatheus92&langs_count=10)](https://github.com/guimatheus92/github-readme-stats)
