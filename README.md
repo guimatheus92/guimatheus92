@@ -15,7 +15,8 @@ I'm Guilherme, mechanical engineer and business intelligence developer, passiona
 📬 **Get in Touch**
 - StackOverflow: https://stackoverflow.com/users/10176057/guilherme-matheus
 - GitHub: https://github.com/guimatheus92
-- LinkedIn: https://www.linkedin.com/in/guimatheus92/?locale=en_US
+- EN LinkedIn: https://www.linkedin.com/in/guimatheus92/?locale=en_US
+- PT LinkedIn: https://www.linkedin.com/in/guimatheus92/
 - Medium: https://guimatheus92.medium.com/
 - E-mail: guilherme_matheus12@hotmail.com
 
