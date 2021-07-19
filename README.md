@@ -20,7 +20,7 @@ I'm Guilherme, mechanical engineer and business intelligence developer, passiona
 - Medium: https://guimatheus92.medium.com/
 - Website Portfolio: https://guimatheus92.github.io/guilhermematheus.github.io/
 
-📚 Looking for my Resume? **E-Mail me!**
+📚 Looking for my Resume? **Message me on my LinkedIn profile!**
 
 ------------
 
