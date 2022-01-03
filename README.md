@@ -8,7 +8,7 @@ I'm Guilherme, mechanical engineer and business intelligence developer, passiona
 
 - 🌱 I'm currently learning Machine Learning, Business Intelligence and IA
 - 👯 I'm looking to collaborate with other content creators or projects
-- 🥅 2021 Goals: Develop new Open Source projects
+- 🥅 2022 Goals: Develop new Open Source projects
 - ⚡ Fun fact: I love to play games
 - 
 
